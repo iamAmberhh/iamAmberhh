@@ -22,6 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,vite,js,bootstrap,html,css,sass,vscode,ps)](https://skillicons.dev)
 
 ## 前端作品
-🚗[HH STAY](https://iamamberhh.github.io/HH-STAY/#/)：以 vite 開發的單頁式應用旅遊票券電商網站　
-✍🏻[點點簽](https://iamamberhh.github.io/pdf_sign/)：線上 PDF 電子簽名服務
-🏠[Sollys](https://iamamberhh.github.io/sollys/)：室內設計工作室 品牌形象官網
+* 🚗[HH STAY](https://iamamberhh.github.io/HH-STAY/#/)：以 vite 開發的單頁式應用旅遊票券電商網站　
+* ✍🏻[點點簽](https://iamamberhh.github.io/pdf_sign/)：線上 PDF 電子簽名服務
+* 🏠[Sollys](https://iamamberhh.github.io/sollys/)：室內設計工作室 品牌形象官網
